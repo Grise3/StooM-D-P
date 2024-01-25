@@ -38,7 +38,7 @@ iwad: DOOM2.WAD
 title: Tangerine Nightmare
 description: Tangerine Nightmare is a collection of 8 (+1 credit-map and a bonus one) limit-removing maps.
 long_description: Tangerine Nightmare is a collection of 8 (+1 credit-map and a bonus one) limit-removing maps. They were designed by the french doom community, with all new textures/GFX/flats made by franckFRAG. 
-authors: 	[WH]-Wilou84, Chaos, Datacore, franckFRAG, Jambon, JCD, Roofi
+authors: [WH]-Wilou84, Chaos, Datacore, franckFRAG, Jambon, JCD, Roofi
 relase_date: 2018
 has_cacoward: false
 image_url: https://doomwiki.org/w/images/thumb/5/59/Tangerine_Nightmare_title.png
