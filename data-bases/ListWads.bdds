@@ -50,7 +50,7 @@ iwad: DOOM2.WAD
 title: 180 Minutes Pour Vivre
 description: 180 Minutes pour vivre is a 32 maps Megawad for Doom 2 with various difficulties made by the french doom community
 long_description: A collection of 32 new "speedmaps". $/n$ Also included is 180mpv_b.wad, a bonus wad containing an extra map 30, as well as story elements for the whole wad.
-authors: French Doom Community  	
+authors: French Doom Community (leader of the project : [WH]-Wilou84)
 relase_date: 2020
 has_cacoward: true
 image_url: https://doomwiki.org/w/images/thumb/a/af/180_Minutes_Pour_Vivre_title.png
