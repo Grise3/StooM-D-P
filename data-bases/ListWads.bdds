@@ -8,19 +8,19 @@ has_cacoward: false
 image_url: https://media.moddb.com/images/downloads/1/186/185185/EndT.png
 download_url: https://www.quaddicted.com/files/idgames/levels/doom/megawads/et.zip
 file_format: wad
-downloaded: true
+downloaded: false
 iwad: DOOM.WAD
 --
 title: FLESHARMONIC
 description: 20 new maps, with various difficulties for DOOM II: Hell on Earth.
-long_description: violent and sanguinolent doom II project : Flesharmonic ! It's a 20-maps megawad of raw and  grilled meat to satisfy your insatiable appetite for wads! $/n$ This wad is served by the following team: @datacore (project leader) , @Alephany, @Duskolos, Jambon, @Nixx and roofi. $/n$ with the help of its fabulous testers: @Gr0mat, @WH-Wilou84 and its talentuous artist : @franckFRAG
+long_description: violent and sanguinolent doom II project : Flesharmonic ! It's a 20-maps megawad of raw and  grilled meat to satisfy your insatiable appetite for wads! $/n$ This wad is served by the following team: @datacore (project leader) , @Alephany, @Duskolos, Jambon, @Nixx and @Roofi. $/n$ with the help of its fabulous testers: @Gr0mat, @WH-Wilou84 and its talentuous artist : @franckFRAG
 authors: Datacore , Alephany, Jambon, Nixx, Duskolos, Roofi
 relase_date: 2024
 has_cacoward: false
 image_url: https://media.moddb.com/images/downloads/1/264/263519/9oycge11.jpg
 download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/fhc.zip
 file_format: wad
-downloaded: true
+downloaded: false
 iwad: DOOM2.WAD 
 --
 title: Freedom on Earth
@@ -32,6 +32,57 @@ has_cacoward: false
 image_url: https://media.moddb.com/images/downloads/1/194/193910/screen16.png
 download_url: https://www.quaddicted.com/files/idgames/levels/doom2/d-f/d2foe.zip 
 file_format: wad
-downloaded: true
+downloaded: false
 iwad: DOOM2.WAD
 --
+title: Tangerine Nightmare
+description: Tangerine Nightmare is a collection of 8 (+1 credit-map and a bonus one) limit-removing maps.
+long_description: Tangerine Nightmare is a collection of 8 (+1 credit-map and a bonus one) limit-removing maps. They were designed by the french doom community, with all new textures/GFX/flats made by franckFRAG. 
+authors: 	[WH]-Wilou84, Chaos, Datacore, franckFRAG, Jambon, JCD, Roofi
+relase_date: 2018
+has_cacoward: false
+image_url: https://doomwiki.org/w/images/thumb/5/59/Tangerine_Nightmare_title.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/s-u/tn.zip
+file_format: wad
+downloaded: false
+iwad: DOOM2.WAD
+--
+title: 180 Minutes Pour Vivre
+description: A collection of 32 new "speedmaps". 
+long_description: A collection of 32 new "speedmaps". $/n$ Also included is 180mpv_b.wad, a bonus wad containing an extra map 30, as well as story elements for the whole wad.
+authors: French Doom Community  	
+relase_date: 2020
+has_cacoward: true
+image_url: https://doomwiki.org/w/images/thumb/a/af/180_Minutes_Pour_Vivre_title.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/180mpv.zip
+file_format: wad
+downloaded: false
+iwad: DOOM2.WAD
+--
+title: speed of doom
+description: 33 challenging maps of a megawad.
+long_description: 33 challenging maps of a megawad.
+authors: Joshy, Darkwave0000
+relase_date: 2010
+has_cacoward: true
+image_url: https://doomwiki.org/w/images/thumb/a/a8/Speed_of_Doom_title.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/sodfinal.zip
+file_format: wad
+downloaded: false
+iwad: DOOM2.WAD
+--
+/! Short description is probably too long... !\
+title: The 10x10 Project
+description: 10x10.wad is a modest set of 10 BOOM-compatible maps made as mapping exercises in which I restricted myself to using ten stock textures and ten stock FLATs in each 
+long_description: 10x10.wad is a modest set of 10 BOOM-compatible maps made as mapping exercises in which I restricted myself to using ten stock textures and ten stock FLATs in each (with some universal textures such as switches, doors, DOORTRAK, lights, etc.)* Pistol starts are intended but I won't put a gun to your head. In addition, there is a secret map that will probably be unpopular.$/n$ $/n$ *An out of bounds area in MAP01 showcases this universal texturebank for any nerd interested. Also, I cheated with ALLBLK for the void sections, sue me.
+authors: lunchlunch
+relase_date: 2022
+has_cacoward: true
+image_url: https://doomwiki.org/w/images/thumb/8/8a/10x10_TITLEPIC.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/0-9/10x10.zip
+file_format: wad
+downloaded: false
+iwad: DOOM2.WAD
+--
+
+
