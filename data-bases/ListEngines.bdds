@@ -1,9 +1,34 @@
 --
 title:
 description:
-has_cacoward: true/false
+authors:
 image_url:
-download_url:
+download_linux_url:
+download_windows_url:
 license:
-downloaded: true/false
+version:
+downloaded: false
+all_compatible: yes/no
+--
+title: GZDoom
+description: GZDoom is a 3D-accelerated Doom source port based on ZDoom coded and maintained by Christoph Oelckers. 
+authors: Christoph Oelckers (project leadership) See : https://github.com/ZDoom/gzdoom/graphs/contributors 
+image_url: https://zdoom.org/w/images/2/25/Circle_gzdoom.png
+download_linux_url: https://github.com/ZDoom/gzdoom/releases/download/g4.11.3/gzdoom-g4.11.3-linux-portable.tar.xz
+download_windows_url: https://github.com/ZDoom/gzdoom/releases/download/g4.11.3/gzdoom-4-11-3.a.-Windows-64bit.zip
+license:  GNU GENERAL PUBLIC LICENSE (GPL)
+version: v4.11.3 
+downloaded: false
+all_compatible: yes
+--
+title: Crispy
+description: Crispy Doom is a friendly fork of Chocolate Doom that provides a higher display resolution, removes the static limits of the Doom engine and offers further optional visual, tactical and physical enhancements while remaining entirely config file, savegame, netplay and demo compatible with the original. 
+authors: Simon Howard, James Haley, Samuel Villarreal, Fabian Greffrath, Jonathan Dowland, Alexey Khokholov, Turo Lamminen See : https://github.com/fabiangreffrath/crispy-doom/blob/master/AUTHORS
+image_url: https://www.chocolate-doom.org/wiki/images/b/be/Crispy-doom.png
+download_linux_url: https://chungy.keybase.pub/crispy-doom/Crispy_Doom-5.6.4-x86_64.AppImage
+download_windows_url: https://github.com/fabiangreffrath/crispy-doom/releases/download/crispy-doom-6.0/crispy-doom-6.0.0-win64.zip
+license: GNU GENERAL PUBLIC LICENSE (GPL)
+version: v5.6.4
+downloaded: false
+all_compatible: no
 --
