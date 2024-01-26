@@ -84,18 +84,15 @@ file_format: wad
 downloaded: false
 iwad: DOOM2.WAD
 --
-/! descrption and long_description will be put later !\
-title: 	And The Bloodshed Began
-description: -
-long_description: -
-authors: Datacore, Subject119
-relase_date: 2014
+title: And The Bloodshed Began
+description: Megawad for DOOM 2 featuring 32 new maps with various difficulties
+long_description: Megawad for DOOM 2 quite classic, co-op friendly created by Datacore and Subject119, the pwad is Boom compatible.
+authors: Datacore / Subject119 ( map 01,02,03,07 and 15 )
+relase_date: 2014 
 has_cacoward: false
-image_url: https://dl.dropboxusercontent.com/s/8pc9vsxtzbaz4bo/atbbt.png
-download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/atbb_f2.zip
+image_url: https://www.doomworld.com/images/newstuff/452/atbb_f201.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/Ports/megawads/atbb_f2.zip 
 file_format: wad
 downloaded: false
 iwad: DOOM2.WAD
 --
-
-
