@@ -43,6 +43,7 @@ description:
 has_cacoward: true/false
 image_url:
 download_url:
+license:
 downloaded: true/false
 --
 
