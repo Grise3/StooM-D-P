@@ -40,12 +40,16 @@ ListEngines.bdds
 --
 title:
 description:
-has_cacoward: true/false
+authors:
 image_url:
-download_url:
+download_linux_url:
+download_windows_url:
 license:
 downloaded: true/false
+all_compatible: yes/no
 --
+
+
 
 
 Fore more informations, see this post on the CFD : 
