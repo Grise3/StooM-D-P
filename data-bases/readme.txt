@@ -12,7 +12,7 @@ ListWads.bdds
 
 the data base of the wads, like this :
 
-' --
+--
 title:
 description:
 long_description:
@@ -23,7 +23,7 @@ image_url:
 download_url:
 file_format: wad/pk3
 downloaded: true/false
-' --
+--
 
 for make a comment : 
 
