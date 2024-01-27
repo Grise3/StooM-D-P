@@ -99,7 +99,7 @@ iwad: DOOM2.WAD
 title: Vailant
 description: Valiant is a MBF megawad for Doom II featuring 32 new maps spanning 5 themed episodes.
 long_description: Valiant is a MBF megawad for Doom II featuring 32 new maps spanning 5 themed episodes. Each map is designed to be played from a pistol start, but some effort has been made to support continuous play as well.
-authors: 	Paul "skillsaw" DeBruyne
+authors: Paul "skillsaw" DeBruyne
 relase_date: 2015
 has_cacoward: true
 image_url: https://doomwiki.org/w/images/thumb/c/c7/Valiant_title.png/
