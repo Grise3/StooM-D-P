@@ -108,3 +108,16 @@ file_format: wad
 downloaded: false
 iwad: DOOM2.WAD
 --
+title:  End Game 
+description: 8 level wad set for doom2 exe. **
+long_description: End Game is an eight map collaboration PWAD for Doom II. The project is the last active contribution to the Doom community by Anthony Soto (Swedish Fish). There is no set theme as the map environments range from gothic castles to tech bases. 
+authors: 	Erik Alm, Joe Pallai, Anthony Soto, Lee Szymanski, Jan Van der Veken, Josh Zylstra
+relase_date: 	01/03/04
+has_cacoward: false
+image_url: https://doomwiki.org/w/images/2/2b/Endgame-map07.png
+download_url: https://www.quaddicted.com/files/idgames/levels/doom2/d-f/endgame.zip
+file_format: wad
+downloaded: false
+iwad: DOOM2.WAD
+--
+
